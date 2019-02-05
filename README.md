@@ -2,9 +2,12 @@ This is a google website clone project.
 
 What I've done:
 
-Nothing too crazy yet
+Created a bootleg Google page!
 
-Soon...
-
+Made a horizontal header, footer
+Customized buttons
+Search form, customized, with Google-like shadow
+Submit buttons
+Hover effects
 
 From The Odin Project's [curriculum](http://www.theodinproject.com/courses/web-development-101/lessons/html-css)
